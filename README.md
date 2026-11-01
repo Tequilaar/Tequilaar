@@ -48,3 +48,7 @@ Hallo, ich bin **Yuzhe Yan** und studiere Elektrotechnik und Informationstechnik
 - **Dafeiyu** – ein Desktop-Haustier für macOS (AppKit, SpriteKit, SwiftUI)
 
 Mehr auf [tequilaar.github.io/de](https://tequilaar.github.io/de/).
+
+---
+
+🌐 Website: [中文](https://tequilaar.github.io/) · [English](https://tequilaar.github.io/en/) · [Deutsch](https://tequilaar.github.io/de/)
