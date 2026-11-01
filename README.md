@@ -6,7 +6,7 @@
 
 **项目**
 - **Deadliner for macOS**：基于共享 Kotlin Multiplatform 核心的 SwiftUI 客户端，并为 [DeadlinerCore](https://github.com/DeadlinerStudio/DeadlinerCore) 提交改动
-- **IP-Metis**：树莓派 5 + Metis M.2 加速器上的边缘 AI 推理，端到端 157 fps、延迟 4.3 ms
+- **IP-Metis**：树莓派 5 + Metis M.2 加速器上的边缘 AI 推理，与 CPU 做可复现的对比测试
 - **大肥鱼桌宠**：住在 Mac 桌面上的原生桌宠（AppKit、SpriteKit、SwiftUI）
 
 **常用**：Swift · SwiftUI · Python · C/C++ · 树莓派
